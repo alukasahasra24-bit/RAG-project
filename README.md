@@ -29,7 +29,7 @@ Here’s your updated README.md section, now including instructions for accessin
 **1. Clone the Repo**
 
 ```bash
-git clone https://github.com/rafathamaan/Hashira-RAG.git
+git clone https://github.com/alukasahasra24-bit/Hashira-RAG.git
 cd Hashira-RAG
 ```
 
